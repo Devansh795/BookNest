@@ -1,0 +1,120 @@
+body{
+    background-image: url(/Images/bg1.png);
+    background-attachment: fixed;
+}
+
+.topimg{
+    background-image:url(/Images/background1.2.png);
+    background-size: cover;
+    background-attachment:fixed;
+    /*height: 17.95vh;*/
+    height: 70%;
+    width: 98%;
+    display: flex;
+    padding: 1%;
+}
+
+.btn01{
+    background-color: white;
+    margin-top: 0.5cm;
+    color: rgb(0, 0, 0); 
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border-radius: 1.875vw;
+}
+
+.btn1{
+    margin-top: 0.5cm;
+    font-size: 100%;
+    color: rgb(11, 236, 203); 
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin-left: 32.03125vw;
+}
+.btn2{
+    margin-top: 0.5cm;
+    font-size: 100%;
+    color: rgb(11, 236, 203); 
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+.btn3{
+    margin-top: 0.5cm;
+    font-size: 100%;
+    color: rgb(11, 236, 203); 
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+.search{
+    
+    margin-top: 0.6cm;
+    margin-left: 0.1;
+    margin-right: 5px;
+    width:  9.375vw;
+    height:  2.34375vw;
+    border-radius: 1.875vw;
+    border:  0.15625vw solid rgb(48, 229, 246);
+    
+}
+.logo1{
+    color: white;
+    font-size: 200%;
+    margin-left: 1cm;
+    width:  31.25vw;
+}
+
+.b1{
+    background-image: url(/Images/background1.2.png);
+    color: white;
+    width: 60%;
+    padding:  1.5625vw;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:  1.5625vw;
+}    
+
+.rich-dad{
+    border: 0.390625vw solid rgb(11, 236, 203);
+    border-radius:  1.5625vw;
+}
+
+.grid-container {
+    display: grid;
+    gap: 5vw 0.10vw;
+    grid-template-columns: 33% 33% 33%;
+    padding: 0.78125vw;  
+}
+
+.btn4{
+    background-image: url(/Images/bg1.png);
+    color: white;
+    padding-top:  0.625vw;
+    padding-bottom:  0.625vw;
+    padding-left:  0.625vw;
+    padding-right:  0.625vw;
+    border-radius: 1.5625vw;
+    border:  0.15625vw solid rgb(48, 229, 246);
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+.lic{
+    background-color: rgb(16, 104, 114);
+    padding: 20px;
+    border: 2px solid rgb(48, 229, 246);
+    border-radius: 90%;
+    margin-left: 250px;
+    margin-right: 250px;
+}
